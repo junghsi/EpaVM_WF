@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EpaVM_WF.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">172.30.200.215</Value>
+    </Setting>
+    <Setting Name="Server2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">172.30.200.216</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">60022</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tust@54046290</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
